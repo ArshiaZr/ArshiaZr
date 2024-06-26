@@ -1,9 +1,7 @@
 👋 Hey Welcome to my Github!
 
-🔍 I am currently looking for Summer 2024 Opportunities or research positions.
-
 🌆 I am located in Toronto, Ontario.
 
-💻 Some of the technologies I work with are React, Next.js, Express, JavaScript/HTML/CSS, TypeScript, Java, Python, TailwindCSS, C# (.NET Core), C/C++ and etc.
+💻 Currently working as Produciton Engineer at Meta & MLH. Focused more on AI/ML for personal projects.
 
 🏋️‍♂️ In my free time, I like to lift weights and build side projects.
